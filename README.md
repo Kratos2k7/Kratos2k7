@@ -59,8 +59,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Kratos2k7/Kratos2k7/output/snake.svg" alt="Snake animation" />
 
 ###
